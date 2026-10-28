@@ -1,0 +1,6 @@
+{
+  "name": "DevPath: Offline Coding Academy",
+  "description": "Distraction-free offline coding academy for students with Frontend & Backend tracks, interactive quizzes, real-time code playground, and adaptive projects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

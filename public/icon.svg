@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="128" fill="#0f172a"/>
+  <rect x="24" y="24" width="464" height="464" rx="104" stroke="#3b82f6" stroke-opacity="0.3" stroke-width="8"/>
+  <circle cx="256" cy="256" r="160" fill="url(#brandGrad)" fill-opacity="0.12"/>
+  <path d="M170 180L100 256L170 332" stroke="#60a5fa" stroke-width="28" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M342 180L412 256L342 332" stroke="#38bdf8" stroke-width="28" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M280 156L232 356" stroke="#818cf8" stroke-width="26" stroke-linecap="round"/>
+  <circle cx="256" cy="390" r="12" fill="#38bdf8"/>
+  <defs>
+    <radialGradient id="brandGrad" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(256 256) rotate(90) scale(160)">
+      <stop stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#6366f1" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+</svg>
